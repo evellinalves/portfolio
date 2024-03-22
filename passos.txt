@@ -1,0 +1,6 @@
+1 - clicar no commit no sourcetree
+2 - selecionar os arquivos para commitar para a área de stage
+3 - escrever alguma mensagem relacionada ao commit
+4 - apertar o botão commit
+5a - no sourcetree clicar no botão push x2
+5b - ou deixar selecionado o push no commit
